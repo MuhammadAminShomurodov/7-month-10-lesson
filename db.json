@@ -1,0 +1,246 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "firstname": "John",
+      "lastname": "Doe",
+      "group": "A"
+    },
+    {
+      "id": "2",
+      "firstname": "Jane",
+      "lastname": "Smith",
+      "group": "B"
+    },
+    {
+      "id": "3",
+      "firstname": "Michael",
+      "lastname": "Brown",
+      "group": "A"
+    },
+    {
+      "id": "4",
+      "firstname": "Emily",
+      "lastname": "Davis",
+      "group": "C"
+    },
+    {
+      "id": "5",
+      "firstname": "Chris",
+      "lastname": "Wilson",
+      "group": "B"
+    },
+    {
+      "id": "6",
+      "firstname": "Anna",
+      "lastname": "Moore",
+      "group": "A"
+    },
+    {
+      "id": "7",
+      "firstname": "James",
+      "lastname": "Taylor",
+      "group": "C"
+    },
+    {
+      "id": "8",
+      "firstname": "Laura",
+      "lastname": "Anderson",
+      "group": "B"
+    },
+    {
+      "id": "9",
+      "firstname": "David",
+      "lastname": "Thomas",
+      "group": "A"
+    },
+    {
+      "id": "10",
+      "firstname": "Sarah",
+      "lastname": "Jackson",
+      "group": "C"
+    },
+    {
+      "id": "11",
+      "firstname": "Robert",
+      "lastname": "White",
+      "group": "B"
+    },
+    {
+      "id": "12",
+      "firstname": "Jessica",
+      "lastname": "Harris",
+      "group": "A"
+    },
+    {
+      "id": "13",
+      "firstname": "Daniel",
+      "lastname": "Martin",
+      "group": "C"
+    },
+    {
+      "id": "14",
+      "firstname": "Olivia",
+      "lastname": "Garcia",
+      "group": "B"
+    },
+    {
+      "id": "15",
+      "firstname": "Mark",
+      "lastname": "Martinez",
+      "group": "A"
+    },
+    {
+      "id": "16",
+      "firstname": "Sophia",
+      "lastname": "Robinson",
+      "group": "C"
+    },
+    {
+      "id": "17",
+      "firstname": "Lucas",
+      "lastname": "Clark",
+      "group": "B"
+    },
+    {
+      "id": "18",
+      "firstname": "Emma",
+      "lastname": "Rodriguez",
+      "group": "A"
+    },
+    {
+      "id": "19",
+      "firstname": "Andrew",
+      "lastname": "Lewis",
+      "group": "C"
+    },
+    {
+      "id": "20",
+      "firstname": "Mia",
+      "lastname": "Lee",
+      "group": "B"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "firstname": "William",
+      "lastname": "Scott",
+      "level": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "Ava",
+      "lastname": "Green",
+      "level": "2"
+    },
+    {
+      "id": "3",
+      "firstname": "Henry",
+      "lastname": "Adams",
+      "level": "3"
+    },
+    {
+      "id": "4",
+      "firstname": "Lily",
+      "lastname": "Baker",
+      "level": "1"
+    },
+    {
+      "id": "5",
+      "firstname": "Jack",
+      "lastname": "Gonzalez",
+      "level": "2"
+    },
+    {
+      "id": "6",
+      "firstname": "Isabella",
+      "lastname": "Nelson",
+      "level": "3"
+    },
+    {
+      "id": "7",
+      "firstname": "Ethan",
+      "lastname": "Carter",
+      "level": "1"
+    },
+    {
+      "id": "8",
+      "firstname": "Mason",
+      "lastname": "Mitchell",
+      "level": "2"
+    },
+    {
+      "id": "9",
+      "firstname": "Sophia",
+      "lastname": "Perez",
+      "level": "3"
+    },
+    {
+      "id": "10",
+      "firstname": "Alexander",
+      "lastname": "Roberts",
+      "level": "1"
+    },
+    {
+      "id": "11",
+      "firstname": "Charlotte",
+      "lastname": "Turner",
+      "level": "2"
+    },
+    {
+      "id": "12",
+      "firstname": "Jacob",
+      "lastname": "Phillips",
+      "level": "3"
+    },
+    {
+      "id": "13",
+      "firstname": "Ella",
+      "lastname": "Campbell",
+      "level": "1"
+    },
+    {
+      "id": "14",
+      "firstname": "Logan",
+      "lastname": "Parker",
+      "level": "2"
+    },
+    {
+      "id": "15",
+      "firstname": "Zoe",
+      "lastname": "Evans",
+      "level": "3"
+    },
+    {
+      "id": "16",
+      "firstname": "Nathan",
+      "lastname": "Edwards",
+      "level": "1"
+    },
+    {
+      "id": "17",
+      "firstname": "Amelia",
+      "lastname": "Collins",
+      "level": "2"
+    },
+    {
+      "id": "18",
+      "firstname": "Sebastian",
+      "lastname": "Stewart",
+      "level": "3"
+    },
+    {
+      "id": "19",
+      "firstname": "Harper",
+      "lastname": "Sanchez",
+      "level": "1"
+    },
+    {
+      "id": "20",
+      "firstname": "Michael",
+      "lastname": "Morris",
+      "level": "2"
+    }
+  ]
+}
